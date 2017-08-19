@@ -1,0 +1,17 @@
+body{
+	background: navy;
+}
+
+.freshCard{
+	text-align: center;
+	color: hotpink;
+}
+
+.newCard{
+	border: 2px solid yellow;
+	border-radius: 25px;
+	color: navy;
+	background: hotpink;
+	text-align: center;
+}
+
